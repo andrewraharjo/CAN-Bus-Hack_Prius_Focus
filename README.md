@@ -5,4 +5,4 @@ This is the code from Chris Valasek [@nudehaberdasher](http://www.twitter.com/nu
 
 See: http://blog.ioactive.com/2013/08/car-hacking-content.html
 
-They tested in two cars 2010 Prius with Intelligent Parking Assist and 2010 Ford Focus LTD with Active Park Assist
+They tested in two cars 2010 Prius with Intelligent Parking Assist and 2010 Ford Escape LTD with Active Park Assist
